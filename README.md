@@ -1,16 +1,40 @@
-## Hi there 👋
+# Rahul Saharan
 
-<!--
-**saharanrahul/saharanrahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Mathematics | IIT Madras  
+📊 Aspiring Quant Analyst / Data Scientist  
+💻 Python • Data Analysis • Statistics • Linear Algebra  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a mathematics postgraduate student with a strong interest in quantitative finance, data analysis, and problem-solving.  
+I enjoy working at the intersection of **mathematics, programming, and data-driven decision making**.
+
+
+## Skills
+- **Programming:** Python  
+- **Data Analysis:** NumPy, Pandas, Matplotlib  
+- **Mathematics:** Linear Algebra, Probability, Statistics  
+- **Tools:** Git, GitHub, VS Code  
+- **Databases:** SQL (learning)
+
+
+
+## Current Focus
+- Strengthening core mathematics for quant roles  
+- Building data analysis & quantitative projects  
+- Preparing for internships in data/quant roles  
+
+
+
+## Education
+- **M.Sc. Mathematics** — IIT Madras  
+- **B.Sc. (PCM)** — Maharaja Ganga Singh University  
+
+
+
+## Contact
+- 📧 Email: saharanrahul132@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/saharan-rahul  
+
+
+
