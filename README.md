@@ -22,7 +22,7 @@ I enjoy working at the intersection of **mathematics, programming, and data-driv
 ## Current Focus
 - Strengthening core mathematics for quant roles  
 - Building data analysis & quantitative projects  
-- Preparing for internships in data/quant roles  
+
 
 
 
