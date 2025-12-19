@@ -12,9 +12,9 @@ I enjoy working at the intersection of **mathematics, programming, and data-driv
 
 ## Skills
 - **Programming:** Python  
-- **Data Analysis:** NumPy, Pandas, Matplotlib  
-- **Mathematics:** Linear Algebra, Probability, Statistics  
-- **Tools:** Git, GitHub, VS Code  
+- **Data Analysis:** NumPy, Pandas, Matplotlib , Seaborn , Scikit-Learn 
+- **Mathematics:** Linear Algebra, Probability, Statistics, Numerical Analysis , Differnetial Equation 
+- **Tools:** Git, GitHub, VS Code, Jupyter
 - **Databases:** SQL (learning)
 
 
@@ -28,12 +28,12 @@ I enjoy working at the intersection of **mathematics, programming, and data-driv
 
 ## Education
 - **M.Sc. Mathematics** — IIT Madras  
-- **B.Sc. (PCM)** — Maharaja Ganga Singh University  
+
 
 
 
 ## Contact
-- 📧 Email: saharanrahul132@gmail.com  
+- 📧 Email: rk5010985@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/saharan-rahul  
 
 
