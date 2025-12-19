@@ -13,7 +13,7 @@ I enjoy working at the intersection of **mathematics, programming, and data-driv
 ## Skills
 - **Programming:** Python  
 - **Data Analysis:** NumPy, Pandas, Matplotlib , Seaborn , Scikit-Learn 
-- **Mathematics:** Linear Algebra, Probability, Statistics, Numerical Analysis , Differnetial Equation 
+- **Mathematics:** Linear Algebra, Probability, Statistics, Numerical Analysis , Differential Equation 
 - **Tools:** Git, GitHub, VS Code, Jupyter
 - **Databases:** SQL (learning)
 
