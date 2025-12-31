@@ -50,7 +50,7 @@
 
 ---
 
-## 📄 Resume
+## 📄 Resume 
 
 [![View Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/XXXX/view)
 
