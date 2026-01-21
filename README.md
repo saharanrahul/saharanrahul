@@ -41,11 +41,11 @@
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-saharan&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saharanrahul&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul-saharan&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saharanrahul&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-saharan&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saharanrahul&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
