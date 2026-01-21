@@ -35,7 +35,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rahul-saharan&theme=onedark&margin-w=15&margin-h=15&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saharanrahul&theme=onedark&margin-w=15&margin-h=15&no-frame=true)
 
 ---
 
