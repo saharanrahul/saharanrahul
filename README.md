@@ -17,7 +17,7 @@
 - 🌱 Currently learning **Python, Machine Learning & Deep Learning**
 - 🤝 Looking to collaborate on **Data Science / AI / ML Projects**
 - 💬 Ask me about **Python, Mathematics, Data Analysis**
-- 📫 Reach me at **saharanrahull32@gmail.com**
+- 📫 Reach me at **saharanrahul132@gmail.com**
 
 ---
 
