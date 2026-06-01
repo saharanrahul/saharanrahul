@@ -12,12 +12,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **M.Sc. Mathematics (First Year), IIT Madras**
+- 🎓 **M.Sc. Mathematics (Second Year), IIT Madras**
 - 📊 Interested in **Data Science, AI/ML & Quantitative Finance**
 - 🌱 Currently learning **Python, Machine Learning & Deep Learning**
 - 🤝 Looking to collaborate on **Data Science / AI / ML Projects**
 - 💬 Ask me about **Python, Mathematics, Data Analysis**
-- 📫 Reach me at **saharanrahul132@gmail.com**
+- 📫 Reach me at **rk5010985@gmail.com**
 
 ---
 
