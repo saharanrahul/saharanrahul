@@ -14,7 +14,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 ```python
 rahul = {
