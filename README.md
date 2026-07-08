@@ -124,15 +124,6 @@ rahul = {
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/XXXX/view">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
